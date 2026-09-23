@@ -1,4 +1,4 @@
-wip
+<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/fdd78bb3-c5b2-405c-86e5-265d3af2f652" />
 
 <!--
 **nrciist/nrciist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
