@@ -1,6 +1,6 @@
 yo lowk vibe w me
 
-<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/65ebf384-d603-4159-bd09-0f65e1c10c80" />
+<img width="1080" height="1656" alt="Image" src="https://github.com/user-attachments/assets/49f07996-6c87-4a9b-b5d1-61e9d30d3d38" />
 <!--
 **nrciist/nrciist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
