@@ -1,6 +1,4 @@
-yo lowk vibe w me
-
-<img width="1080" height="1656" alt="Image" src="https://github.com/user-attachments/assets/49f07996-6c87-4a9b-b5d1-61e9d30d3d38" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ftj5vijp35baibghk4diwsxw5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **nrciist/nrciist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
