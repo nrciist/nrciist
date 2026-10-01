@@ -1,3 +1,5 @@
+still working on this..
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ftj5vijp35baibghk4diwsxw5q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=636363&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/6b838eed-5087-430b-9653-44284d6b1b92" >
