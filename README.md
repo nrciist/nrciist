@@ -1,10 +1,11 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ftj5vijp35baibghk4diwsxw5q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=636363&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/6b838eed-5087-430b-9653-44284d6b1b92" >
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/571d346d-c069-454f-8503-e127ad7384f1" /><img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/101ce4f6-f977-4276-927a-cb607c6d632a" /><img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/0c377c56-3da4-4382-a7fa-656e7e7d451f" />
 
-<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/51984ae7-3f91-44ef-8fe5-6ae8b6db846c" /><img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/75d56714-3dfb-41aa-9da1-8fd90aa9a467" />
-<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/e8c5c5e4-840f-4064-897e-942d7d5048fe" /><img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/8a15679f-7f24-4370-8134-866cc5942554" />
-<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/14bd782b-0551-4186-9653-f262a3d417a8" />
-<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/a654f04e-d55a-4105-8b50-ac46b37e75fc" />
+
+
+
 
 
 <!--<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/14f02a52-b932-4bc2-9287-06f5e1204871" />
