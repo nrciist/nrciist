@@ -1,5 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ftj5vijp35baibghk4diwsxw5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
-<!--
+<!--<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/14f02a52-b932-4bc2-9287-06f5e1204871" />
 **nrciist/nrciist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
