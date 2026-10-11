@@ -14,4 +14,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ftj5vijp35baibghk4diwsxw5q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffe0f1&bar_color_cover=false">
   </a>
 </p>
-
+<p align="center">
+<img width="1500" height="59" alt="677932550132239229-removebg-preview" src="https://github.com/user-attachments/assets/f3d9b8f1-b64f-437c-8184-5d41b6a60a6c" />
