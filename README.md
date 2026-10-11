@@ -1,4 +1,9 @@
 <p align="center">
+<img width="1000" height="400" alt="677932550132239229-removebg-preview" src="https://github.com/user-attachments/assets/87ec3427-857d-45ac-a2be-26436a0697fe" />
+
+
+
+<p align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%C2%B4%E0%BD%80%60&labelColor=%23ff91c9&countColor=%23ffbddf" /></a>
 
 <p align="center">
