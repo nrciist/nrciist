@@ -1,12 +1,5 @@
 <p align="center">
-<img width="1500" height="59" alt="677932550132239229-removebg-preview" src="https://github.com/user-attachments/assets/3f0decab-e6e3-4c53-b501-7ef7e60239e3" />
-
-
-<p align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%C2%B4%E0%BD%80%60&labelColor=%23ff91c9&countColor=%23ffbddf" /></a>
-
-<p align="center">
-<img width="400" height="400" alt="cutefucks" src="https://github.com/user-attachments/assets/b58a39a0-a6d5-4016-9862-234a22bb577e" />
+<img width="1200" height="59" alt="stuff" src="https://github.com/user-attachments/assets/65f62152-63de-42d4-879f-5eb84b17eb6b" />
 
 
 <p align="center">
@@ -15,4 +8,6 @@
   </a>
 </p>
 <p align="center">
-<img width="1500" height="59" alt="677932550132239229-removebg-preview" src="https://github.com/user-attachments/assets/f3d9b8f1-b64f-437c-8184-5d41b6a60a6c" />
+
+
+<img width="1200" height="59" alt="otherstuff" src="https://github.com/user-attachments/assets/b71f28bd-0cbe-4ee5-99a0-39124c3da625" />
