@@ -7,7 +7,9 @@
 
 <p align="center">
 
-  <img width="300" height="300" alt="Untitled178_Restored_20261021204012" src="https://github.com/user-attachments/assets/f4d979ac-aa76-4f2d-b885-1bea305eb1a0" />
+<img width="400" height="400" alt="Untitled178_Restored_20261021214211" src="https://github.com/user-attachments/assets/ba953777-6091-46e4-a63d-ce7937479035" />
+
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
