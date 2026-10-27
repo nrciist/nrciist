@@ -4,7 +4,8 @@
 
 <p align="center"><img width="250" height="300" alt="IMG_20261027_194952" src="https://github.com/user-attachments/assets/79a68037-6b5a-4da4-a0ca-6684445e0c03" />
 
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1&color=6F97B1&center=true&width=421&lines=i+like+you+for+a+thousand+years;a+thousand+years!!!" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
