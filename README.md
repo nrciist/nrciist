@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=(%20%E2%80%A2%CC%81%CC%AF%20%E2%82%83%20%E2%80%A2%CC%80%CC%AF)&labelColor=%23697689&countColor=%23697cce&style=plastic" /></a>
 
+<p align="center"><img width="388" height="400" alt="IMG_20261027_194952" src="https://github.com/user-attachments/assets/79a68037-6b5a-4da4-a0ca-6684445e0c03" />
 
 
 
