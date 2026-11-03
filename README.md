@@ -2,10 +2,9 @@
 <p align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=(%20%E2%80%A2%CC%81%CC%AF%20%E2%82%83%20%E2%80%A2%CC%80%CC%AF)&labelColor=%23697689&countColor=%23697cce&style=plastic" /></a>
 
-
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1&color=6F97B1&center=true&width=421&lines=i+like+you+for+a+thousand+years;a+thousand+years!!!" alt="Typing SVG" /></a>
+will be wip for a while...
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
