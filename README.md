@@ -1,7 +1,6 @@
 
 <p align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=(%20%E2%80%A2%CC%81%CC%AF%20%E2%82%83%20%E2%80%A2%CC%80%CC%AF)&labelColor=%23697689&countColor=%23697cce&style=plastic" /></a>
-
+<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%E2%9C%9A&labelColor=%232e3d42&countColor=%2322515d&style=flat-square" /></a>
 <p align="center">
 <img width="400" height="296" alt="𓏲·˚🦴 𖦆 𝒃𝑟𝑦𝑎𝑛 𝒉𝑜𝑑𝑢𝑘𝑎𝑣𝑖𝑐ℎ ¡! ⋆ ࣪_ 🎀_" src="https://github.com/user-attachments/assets/49aa8f70-1897-454a-b80e-84069c34814c" />
 
