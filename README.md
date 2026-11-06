@@ -2,8 +2,7 @@
 <p align="center">
 <a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%E2%9C%9A&labelColor=%232e3d42&countColor=%2322515d&style=flat-square" /></a>
 <p align="center">
-<img width="400" height="296" alt="𓏲·˚🦴 𖦆 𝒃𝑟𝑦𝑎𝑛 𝒉𝑜𝑑𝑢𝑘𝑎𝑣𝑖𝑐ℎ ¡! ⋆ ࣪_ 🎀_" src="https://github.com/user-attachments/assets/49aa8f70-1897-454a-b80e-84069c34814c" />
-
+<img width="480" height="270" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
 
 
 <p align="center">
