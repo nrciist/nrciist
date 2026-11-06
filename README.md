@@ -1,5 +1,5 @@
-
-<p align="center"> <a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=deaths&countColor=%23f3ff6e&style=flat-square" /></a>
+<p align="center">
+    ㅤ    ㅤ ㅤ   <a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=deaths&countColor=%23f3ff6e&style=flat-square" /></a>
 ㅤ
   ㅤ
   ㅤ
