@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%E2%9C%9A&labelColor=%232e3d42&countColor=%2322515d&style=flat-square" /></a>
+<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=deaths&countColor=%23f0b354&style=flat-square" /></a>
 <p align="center">
 <img width="480" height="270" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
 
