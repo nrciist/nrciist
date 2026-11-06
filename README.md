@@ -4,7 +4,7 @@
   ㅤ
   ㅤ
 <p align="center">
-<img width="370" height="170" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
+<img width="270" height="170" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
