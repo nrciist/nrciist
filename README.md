@@ -17,7 +17,7 @@
 ㅤ
 <p align="center">
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[straw](https://nrciist.straw.page/)     ㅤ  .     ㅤ   [twtr](https://x.com/novllst)  ㅤ   .    ㅤ [tiktok](https://www.tiktok.com/@nrciist)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[straw](https://nrciist.straw.page/)     ㅤ  .     ㅤ   [twtr](https://x.com/novllst)  ㅤ   .    ㅤ [tiktok](https://www.tiktok.com/@nrciist)
 
 ㅤ
 ㅤ
