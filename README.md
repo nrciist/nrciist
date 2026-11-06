@@ -9,8 +9,8 @@
 
 ㅤ
 ㅤ
-ㅤ
-ㅤㅤ<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=2000&pause=233&color=F7EE36&center=true&random=true&width=415&height=30&lines=c+%2B+h+freely!;check+out+my+social" alt="Typing SVG" /></a>
+ㅤ<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=2000&pause=233&color=F7EE36&center=true&random=true&width=415&height=30&lines=c+%2B+h+freely!;check+out+my+social" alt="Typing SVG" /></a>
 
 ㅤ
 ㅤ
