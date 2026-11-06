@@ -6,12 +6,7 @@
 <p align="center">
 <img width="270" height="170" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
 
-<p align="center">
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ftj5vijp35baibghk4diwsxw5q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0d1117&bar_color_cover=false">
-  </a>
-</p>
+
 ㅤ
 ㅤ
 ㅤ
@@ -23,3 +18,7 @@
 <p align="center">
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[straw](https://nrciist.straw.page/)     ㅤ  .     ㅤ   [twtr](https://x.com/novllst)  ㅤ   .    ㅤ [tiktok](https://www.tiktok.com/@nrciist)
+
+ㅤ
+ㅤ
+ㅤㅤ
