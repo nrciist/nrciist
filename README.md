@@ -13,5 +13,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=2000&pause=233&color=F7EE36&center=true&random=true&width=415&height=30&lines=c+%2B+h+freely!;check+out+my+strawpage" alt="Typing SVG" /></a>
 
 
-ㅤ  
-[straw](https://nrciist.straw.page/)
+<p align="center">
+  <a href="https://nrciist.straw.page/">straw</a>
+</p>
