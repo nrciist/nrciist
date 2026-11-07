@@ -7,9 +7,11 @@
 <img width="470" height=270" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
 
 
-ㅤ
-ㅤ
-ㅤ<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=2000&pause=233&color=F7EE36&center=true&random=true&width=415&height=30&lines=c+%2B+h+freely!;check+out+my+social" alt="Typing SVG" /></a>
-ㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[straw](https://nrciist.straw.page/)
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=2000&pause=233&color=F7EE36&center=true&random=true&width=415&height=30&lines=c+%2B+h+freely!;check+out+my+strawpage" alt="Typing SVG" /></a>
+
+
+ㅤ  
+[straw](https://nrciist.straw.page/)
