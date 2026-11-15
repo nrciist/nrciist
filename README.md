@@ -4,7 +4,7 @@
   ㅤ
   ㅤ
 <p align="center">
-<img width="470" height=270" alt="download (1)" src="https://github.com/user-attachments/assets/dda24a5e-663c-4042-98d9-cafe31d5b707" />
+<img width="400" height="300" alt="makesweet-9lhgy0" src="https://github.com/user-attachments/assets/a3de3e02-0bb8-40bc-97d4-8fd64c3b78c9" />
 
 
 
