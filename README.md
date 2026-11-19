@@ -3,7 +3,10 @@
 
   
 <p align="center">
-<img width="400" height="300" alt="makesweet-9lhgy0" src="https://github.com/user-attachments/assets/a3de3e02-0bb8-40bc-97d4-8fd64c3b78c9" />
+
+<img width="200" height="100" alt="makesweet-0hcs54" src="https://github.com/user-attachments/assets/3a92733d-1d28-46a5-bdce-a5a26838ff96" />
+
+
 
 
 
