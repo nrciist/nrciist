@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%E2%80%9C(%E3%83%8E%20_%20%3C%2C%2C%20)&labelColor=%23ffffff&countColor=%
-                                                                                    0000000&style=plastic" /></a>
+<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fnrciist"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnrciist&label=%E2%80%9C(%E3%83%8E%20_%20%3C%2C%2C%20)&labelColor=%23ffffff&countColor=%0000000&style=plastic" /></a>
 
   
 <p align="center">
