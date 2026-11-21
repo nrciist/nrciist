@@ -3,8 +3,8 @@
 
   
 <p align="center">
+<img width="300" height="260" alt="hueyfreemanonlyspeaksthetruth" src="https://github.com/user-attachments/assets/c39d13f2-def4-44f4-bcd5-705fbaaf0b1b" />
 
-<img width="400" height="300" alt="makesweet-r62a4o" src="https://github.com/user-attachments/assets/4a9021f3-e378-4e46-aabb-ed9ccff54887" />
 
 
 
