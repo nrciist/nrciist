@@ -3,7 +3,9 @@
 
   
 <p align="center">
-<img width="300" height="260" alt="hueyfreemanonlyspeaksthetruth" src="https://github.com/user-attachments/assets/c39d13f2-def4-44f4-bcd5-705fbaaf0b1b" />
+<img width="498" height="279" alt="Rick And Morty Rick Prime GIF – Rick and morty Rick prime – Ищите GIF-файлы и обменивайтесь ими" src="https://github.com/user-attachments/assets/dc023f9a-92f8-48da-8551-49fd5bf592b4" />
+
+
 
 
 
